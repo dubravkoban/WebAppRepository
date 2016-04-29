@@ -20,6 +20,11 @@ namespace WebApp.Controllers
 
         public AccountController()
         {
+
+            
+
+
+            //asd
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
